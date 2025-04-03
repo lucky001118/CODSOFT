@@ -40,7 +40,7 @@ This repository is open-source and available under the **MIT License**.
 
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out:
-- **Email:** lucky001118@gmail.com
+- **Email:** manikpurilucky218@gmail.com
 - **GitHub:** [lucky001118](https://github.com/lucky001118)
 - **LinkedIn:** [Lucky Manikpur](https://www.linkedin.com/in/lucky-manikpur)
 
